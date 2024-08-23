@@ -26,22 +26,28 @@ const NavBar = () => {
     const pathname = useLocation().pathname;
 
     return (
-        <header>
+        <header className="bg-white shadow-lg">
             <div className={clsx("w-[95vw] mx-auto")}>
-                <ul className={clsx("flex flex-row justify-center items-center gap-2 my-3 font-xl font-bold text-slate-700 py-2")}>
+                <ul className={clsx("flex flex-row justify-center items-center gap-4 font-semibold text-gray-800 py-6")}>
                     {
-                        menu.map((menu, index) => (
+                        menu.map((item, index) => (
                             <li key={index}
-                                className={clsx("bg-slate-100 rounded-full px-3",
-                                    "hover:text-blue-500",
-                                    pathname == menu.link && "text-blue-500")}><a
-                                href={menu.link}
-                                className={clsx("flex flex-row items-center gap-1")}>{menu.icon} {menu.title}</a></li>
+                                className={clsx(
+                                    "px-4 py-2 rounded-full transition-colors duration-300",
+                                    pathname === item.link ? "bg-purple-600 text-white" : "bg-gray-100 text-gray-800",
+                                    "hover:bg-purple-500 hover:text-white"
+                                )}
+                            >
+                                <a href={item.link} className="flex flex-row items-center gap-2">
+                                    {item.icon}
+                                    {item.title}
+                                </a>
+                            </li>
                         ))
                     }
                 </ul>
             </div>
-            <div className={clsx("py-px bg-purple-200")}></div>
+            {/*<div className={clsx("py-1 bg-purple-200")}></div>*/}
         </header>
     )
 }
