@@ -1,11 +1,16 @@
 import {createRoot} from 'react-dom/client'
 import './index.css'
-import Random from "./components/pages/Random.tsx";
-import About from "./components/pages/About.tsx";
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
-import Layout from "./components/layout/Layout.tsx";
-import App from "./App.tsx";
-import Loading from "./components/ui/Loading.tsx";
+import LoadingScreen from "./components/ui/LoadingScreen.tsx";
+import React from "react";
+
+const Random = React.lazy(() => import("./components/pages/Random.tsx"))
+
+const About = React.lazy(() => import("./components/pages/About.tsx"))
+
+const Layout = React.lazy(() => import("./components/layout/Layout.tsx"))
+
+const App = React.lazy(() => import("./App.tsx"))
 
 const router = createBrowserRouter([
     {
@@ -30,6 +35,6 @@ const router = createBrowserRouter([
 
 
 createRoot(document.getElementById('root')!).render(
-    <RouterProvider router={router} fallbackElement={<Loading/>}/>
+    <RouterProvider router={router} fallbackElement={<LoadingScreen/>}/>
     ,
 )
