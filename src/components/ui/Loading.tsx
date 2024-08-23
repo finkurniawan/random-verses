@@ -1,12 +1,22 @@
-const Loading = () => {
+const LoadingSkeleton = () => {
+
 
     return (
+        <div className="space-y-4">
+            {/* Title Skeleton */}
+            <div className="w-3/4 h-6 bg-gray-300 rounded animate-pulse"></div>
 
-        <div className={"w-full h-screen z-10 bg-blue-600"}>
-            <div className={"text-4xl"}>twkwkkw</div>
+            {/* Paragraph Skeleton */}
+            <div className="space-y-3">
+                <div className="w-full h-4 bg-gray-300 rounded animate-pulse"></div>
+                <div className="w-5/6 h-4 bg-gray-300 rounded animate-pulse"></div>
+                <div className="w-4/6 h-4 bg-gray-300 rounded animate-pulse"></div>
+            </div>
+
+            {/* Image Skeleton */}
+            <div className="w-full h-48 bg-gray-300 rounded animate-pulse"></div>
         </div>
-
     )
 }
 
-export default Loading
+export default LoadingSkeleton
