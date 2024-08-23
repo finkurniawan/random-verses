@@ -4,8 +4,9 @@ import {TbArrowsRandom} from "react-icons/tb";
 const Surah = () => {
 
     return (
-        <section>
-            <div className={clsx("shadow-xl max-w-[90vw] mx-auto rounded-md p-4 space-y-5")}>
+        <section className={clsx("mt-10")}>
+            <div
+                className={clsx("shadow-xl max-w-[90vw] mx-auto rounded-md px-4 py-10 space-y-5 bg-gradient-to-bl from-indigo-500 to-purple-600 text-slate-200", "md:w-[40vw] md:px-14")}>
                 <div className={clsx("text-lg text-center font-bold")}>Al-Fatihah: Surah 1</div>
                 <div className={clsx("text-end")}>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</div>
                 <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consectetur consequuntur,
@@ -30,8 +31,8 @@ const Surah = () => {
                 </div>
 
                 <button
-                    className={clsx("flex shadow-xl bg-slate-200 flex-row items-center gap-2  mx-auto rounded-lg px-3 mt-2 text-slate-700")}>
-                    <TbArrowsRandom/> Rendom
+                    className={clsx("flex mx-auto pt-10")}>
+                    <TbArrowsRandom size={50} className={clsx("ring-1 ring-white p-1 rounded-full")}/>
                 </button>
             </div>
 
