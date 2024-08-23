@@ -27,7 +27,7 @@ const NavBar = () => {
 
     return (
         <header>
-            <div className={clsx("w-[90vw] mx-auto ")}>
+            <div className={clsx("w-[95vw] mx-auto")}>
                 <ul className={clsx("flex flex-row justify-center items-center gap-2 my-3 font-xl font-bold text-slate-700 py-2")}>
                     {
                         menu.map((menu, index) => (
@@ -41,7 +41,7 @@ const NavBar = () => {
                     }
                 </ul>
             </div>
-            <div className={clsx("py-px bg-slate-200 mb-10")}></div>
+            <div className={clsx("py-px bg-purple-200")}></div>
         </header>
     )
 }
