@@ -1,0 +1,433 @@
+{
+  "surahs": [
+    {
+      "surah_number": 1,
+      "surah_name": "Al-Fatihah",
+      "surah_translation": "Pembukaan",
+      "verses": [
+        {
+          "verse_number": 1,
+          "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "translation": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.",
+          "context": "Ayat ini adalah pembukaan dari Al-Qur'an, yang dikenal sebagai Basmala. Ini adalah pengantar untuk setiap surah dalam Al-Qur'an kecuali Surah At-Tawbah.",
+          "tafsir": "Menurut tafsir Ibn Kathir, Basmala merupakan pengantar yang menunjukkan pentingnya memulai segala sesuatu dengan nama Allah.",
+          "asbab_un_nuzul": null
+        },
+        {
+          "verse_number": 2,
+          "arabic_text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "translation": "Segala puji bagi Allah, Tuhan semesta alam.",
+          "context": "Ayat ini menegaskan bahwa semua pujian dan rasa syukur hanya milik Allah, Tuhan yang menciptakan seluruh alam semesta.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, pujian ini menunjukkan bahwa segala sesuatu yang ada di dunia ini adalah ciptaan Allah dan karena itu pantas untuk dipuji.",
+          "asbab_un_nuzul": null
+        },
+        {
+          "verse_number": 3,
+          "arabic_text": "الرَّحْمَٰنِ الرَّحِيمِ",
+          "translation": "Yang Maha Pengasih, Maha Penyayang.",
+          "context": "Ayat ini menggambarkan dua sifat Allah yang sangat penting, yaitu kasih sayang-Nya yang meliputi seluruh makhluk.",
+          "tafsir": "Menurut tafsir al-Mazhari, sifat Maha Pengasih dan Maha Penyayang Allah menunjukkan betapa besar cinta dan perhatian-Nya terhadap ciptaan-Nya.",
+          "asbab_un_nuzul": null
+        },
+        {
+          "verse_number": 4,
+          "arabic_text": "مَالِكِ يَوْمِ الدِّينِ",
+          "translation": "Pemilik hari pembalasan.",
+          "context": "Ayat ini mengingatkan kita bahwa Allah adalah penguasa hari kiamat, hari di mana setiap amal akan dihitung dan dibalas.",
+          "tafsir": "Menurut tafsir Ibn Kathir, pengertian tentang Allah sebagai pemilik hari pembalasan menggarisbawahi kekuasaan-Nya yang absolut dalam menentukan nasib akhir manusia.",
+          "asbab_un_nuzul": null
+        },
+        {
+          "verse_number": 5,
+          "arabic_text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "translation": "Hanya kepada Engkau kami menyembah dan hanya kepada Engkau kami mohon pertolongan.",
+          "context": "Ayat ini menegaskan komitmen umat Islam untuk hanya menyembah Allah dan meminta pertolongan-Nya dalam segala urusan.",
+          "tafsir": "Menurut tafsir al-Jalalayn, ayat ini menunjukkan ketergantungan total manusia kepada Allah dalam segala aspek kehidupan.",
+          "asbab_un_nuzul": null
+        },
+        {
+          "verse_number": 6,
+          "arabic_text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "translation": "Tunjukilah kami jalan yang lurus.",
+          "context": "Ayat ini merupakan permohonan kepada Allah untuk diberikan petunjuk jalan yang benar dalam hidup.",
+          "tafsir": "Menurut tafsir Ibn Kathir, jalan yang lurus adalah jalan yang sesuai dengan petunjuk Allah dan Rasul-Nya, yang membawa kepada kebahagiaan dunia dan akhirat.",
+          "asbab_un_nuzul": null
+        },
+        {
+          "verse_number": 7,
+          "arabic_text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "translation": "Yaitu jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat.",
+          "context": "Ayat ini menjelaskan tentang sifat jalan yang lurus, yaitu jalan yang telah dilalui oleh orang-orang yang mendapat nikmat dari Allah dan bukan jalan orang-orang yang dimurkai atau sesat.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, jalan yang dimaksud adalah jalan yang dilalui oleh nabi-nabi, siddiqin, dan orang-orang yang beriman. Sedangkan jalan orang-orang yang dimurkai adalah jalan orang-orang yang tidak mengikuti petunjuk Allah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 2,
+      "surah_name": "Al-Baqarah",
+      "surah_translation": "Sapi Betina",
+      "verses": [
+        {
+          "verse_number": 255,
+          "arabic_text": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+          "translation": "Allah, tidak ada Tuhan selain Dia, Yang Maha Hidup, Yang Berdiri Sendiri.",
+          "context": "Ayat ini dikenal sebagai Ayat Kursi dan merupakan salah satu ayat yang sangat penting dalam Al-Qur'an. Ia menjelaskan tentang sifat-sifat Allah yang Maha Agung.",
+          "tafsir": "Menurut tafsir Al-Mazhari, Ayat Kursi menunjukkan kekuasaan dan keesaan Allah serta keterlibatan-Nya dalam segala aspek kehidupan.",
+          "asbab_un_nuzul": "Ayat ini diturunkan sebagai jawaban atas pertanyaan dari para sahabat tentang hakikat keesaan dan kekuasaan Allah."
+        },
+        {
+          "verse_number": 286,
+          "arabic_text": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+          "translation": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya.",
+          "context": "Ayat ini memberikan ketenangan dan keyakinan bahwa Allah tidak akan memberikan beban yang melebihi kemampuan setiap individu.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menegaskan bahwa setiap ujian dan cobaan yang diberikan Allah adalah sesuai dengan kapasitas dan kemampuan setiap orang.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 3,
+      "surah_name": "Aali Imran",
+      "surah_translation": "Keluarga Imran",
+      "verses": [
+        {
+          "verse_number": 64,
+          "arabic_text": "قُلْ يَا أَهْلَ الْكِتَٰبِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ",
+          "translation": "Katakanlah, 'Wahai Ahli Kitab, marilah kepada suatu kalimat yang sama antara kami dan kalian.'",
+          "context": "Ayat ini mengajak Ahli Kitab untuk bersatu dalam keyakinan akan keesaan Allah dan menolak perbedaan yang tidak perlu.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini merupakan seruan untuk berdialog dan mencari kesamaan dalam hal dasar kepercayaan agama.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 4,
+      "surah_name": "An-Nisa",
+      "surah_translation": "Wanita",
+      "verses": [
+        {
+          "verse_number": 1,
+          "arabic_text": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ",
+          "translation": "Wahai manusia, bertakwalah kepada Tuhanmu yang telah menciptakan kamu dari seorang diri.",
+          "context": "Ayat ini mengingatkan umat manusia akan asal usul mereka dan pentingnya bertakwa kepada Tuhan yang Maha Pencipta.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menegaskan bahwa semua manusia berasal dari satu jiwa, dan karena itu mereka harus saling menghormati dan bertakwa kepada Allah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 5,
+      "surah_name": "Al-Ma'idah",
+      "surah_translation": "Meja Makanan",
+      "verses": [
+        {
+          "verse_number": 32,
+          "arabic_text": "مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا",
+          "translation": "Barangsiapa membunuh seorang manusia bukan karena orang itu membunuh orang lain atau karena membuat kerusakan di bumi, maka seolah-olah dia telah membunuh seluruh manusia.",
+          "context": "Ayat ini menegaskan betapa besarnya dosa membunuh tanpa alasan yang sah, dan betapa pentingnya menjaga kehidupan manusia.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menunjukkan betapa beratnya hukuman bagi pembunuh yang tidak berdasarkan alasan yang benar.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 6,
+      "surah_name": "Al-An'am",
+      "surah_translation": "Binatang Ternak",
+      "verses": [
+        {
+          "verse_number": 141,
+          "arabic_text": "وَهُوَ الَّذِي أَنْشَأَ جَنَّاتٍ عَارِضَاتٍ وَجَنَّاتٍ مِنْ أَعْنَابٍ",
+          "translation": "Dan Dia-lah yang menciptakan kebun-kebun anggur, dan kebun-kebun dari berbagai jenis buah-buahan.",
+          "context": "Ayat ini menggambarkan karunia Allah dalam menciptakan berbagai jenis tanaman dan buah-buahan yang bermanfaat bagi manusia.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini adalah pengingat tentang nikmat Allah dalam menciptakan berbagai jenis tanaman dan buah-buahan untuk kebutuhan manusia.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 7,
+      "surah_name": "Al-A'raf",
+      "surah_translation": "Tempat Tinggi",
+      "verses": [
+        {
+          "verse_number": 31,
+          "arabic_text": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ",
+          "translation": "Wahai anak cucu Adam, pakailah pakaianmu yang indah setiap kali kamu masuk ke masjid.",
+          "context": "Ayat ini menganjurkan umat Islam untuk berpakaian rapi dan bersih saat memasuki tempat ibadah.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menunjukkan pentingnya kebersihan dan kesopanan dalam beribadah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 8,
+      "surah_name": "Al-Anfal",
+      "surah_translation": "Harta Rampasan Perang",
+      "verses": [
+        {
+          "verse_number": 60,
+          "arabic_text": "وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ",
+          "translation": "Dan persiapkanlah untuk menghadapi mereka kekuatan yang kamu sanggupi.",
+          "context": "Ayat ini memerintahkan umat Islam untuk mempersiapkan diri dengan sebaik-baiknya untuk menghadapi musuh.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menekankan pentingnya persiapan dan kekuatan dalam menghadapi musuh untuk menjaga keamanan dan stabilitas.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 9,
+      "surah_name": "At-Tawbah",
+      "surah_translation": "Pertobatan",
+      "verses": [
+        {
+          "verse_number": 51,
+          "arabic_text": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا",
+          "translation": "Katakanlah, 'Tidak akan menimpa kami kecuali apa yang telah ditetapkan Allah untuk kami.'",
+          "context": "Ayat ini mengajarkan keyakinan akan ketentuan Allah dan bahwa segala sesuatu yang terjadi adalah bagian dari takdir-Nya.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menunjukkan bahwa keyakinan pada takdir Allah harus menjadi pegangan hidup seorang Muslim.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 10,
+      "surah_name": "Yunus",
+      "surah_translation": "Yunus",
+      "verses": [
+        {
+          "verse_number": 109,
+          "arabic_text": "اتْبَعْ مَا أُوحِيَ إِلَيْكَ مِن رَبِّكَ",
+          "translation": "Ikutilah apa yang diwahyukan kepadamu dari Tuhanmu.",
+          "context": "Ayat ini memerintahkan Nabi Muhammad SAW untuk mengikuti wahyu Allah dan tetap konsisten dalam menyebarkan risalah-Nya.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan bahwa wahyu yang diterima Nabi Muhammad adalah petunjuk hidup yang harus diikuti.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 11,
+      "surah_name": "Hud",
+      "surah_translation": "Hud",
+      "verses": [
+        {
+          "verse_number": 12,
+          "arabic_text": "وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ",
+          "translation": "Mengapa aku tidak menyembah Tuhan yang telah menciptakanku dan kepada-Nya kalian akan dikembalikan?",
+          "context": "Ayat ini menunjukkan pentingnya menyembah Allah yang menciptakan dan mengatur kehidupan kita.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menggarisbawahi keharusan untuk menyembah Allah sebagai Pencipta dan Pengatur segala sesuatu.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 12,
+      "surah_name": "Yusuf",
+      "surah_translation": "Yusuf",
+      "verses": [
+        {
+          "verse_number": 36,
+          "arabic_text": "قَالَ يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا",
+          "translation": "Yusuf berkata, 'Wahai teman-temanku di penjara, salah seorang di antara kalian akan menuangkan anggur untuk tuannya.'",
+          "context": "Ayat ini bagian dari kisah Yusuf ketika ia menafsirkan mimpi teman-temannya di penjara.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan kemampuan Yusuf dalam menafsirkan mimpi dan bagaimana ia menyampaikan tafsirannya dengan penuh kejujuran.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 13,
+      "surah_name": "Ar-Ra'd",
+      "surah_translation": "Guruh",
+      "verses": [
+        {
+          "verse_number": 11,
+          "arabic_text": "إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ",
+          "translation": "Sesungguhnya Allah tidak mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri.",
+          "context": "Ayat ini menjelaskan prinsip perubahan yang dimulai dari diri sendiri sebelum perubahan bisa terjadi pada masyarakat atau bangsa.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menekankan bahwa perubahan sosial dan kemajuan bergantung pada usaha individu untuk memperbaiki diri.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 14,
+      "surah_name": "Ibrahim",
+      "surah_translation": "Ibrahim",
+      "verses": [
+        {
+          "verse_number": 7,
+          "arabic_text": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+          "translation": "Dan (ingatlah) ketika Tuhanmu memaklumkan, 'Sesungguhnya jika kamu bersyukur, Aku akan menambah (nikmat) kepadamu.'",
+          "context": "Ayat ini menyampaikan janji Allah kepada mereka yang bersyukur atas nikmat-Nya.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menunjukkan bahwa syukur adalah kunci untuk mendapatkan tambahan nikmat dari Allah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 15,
+      "surah_name": "Al-Hijr",
+      "surah_translation": "Al-Hijr",
+      "verses": [
+        {
+          "verse_number": 26,
+          "arabic_text": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+          "translation": "Dan sesungguhnya Kami telah menciptakan manusia dari tanah liat kering yang berasal dari lumpur hitam.",
+          "context": "Ayat ini menjelaskan asal usul penciptaan manusia dan mengingatkan tentang kekuasaan Allah dalam penciptaan.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan proses penciptaan manusia dari bahan yang sederhana namun dengan kehendak Allah menjadi makhluk yang sempurna.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 16,
+      "surah_name": "An-Nahl",
+      "surah_translation": "Lebah",
+      "verses": [
+        {
+          "verse_number": 89,
+          "arabic_text": "وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِي آتَيْنَاهُ آيَاتِنَا",
+          "translation": "Dan bacakanlah kepada mereka kisah orang yang telah Kami berikan kepadanya ayat-ayat Kami.",
+          "context": "Ayat ini berisi perintah untuk menyampaikan kisah orang yang telah mendapatkan wahyu dari Allah sebagai pelajaran.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menceritakan tentang pentingnya menyampaikan kisah-kisah dari wahyu untuk memberikan pelajaran bagi umat.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 17,
+      "surah_name": "Al-Isra",
+      "surah_translation": "Perjalanan Malam",
+      "verses": [
+        {
+          "verse_number": 23,
+          "arabic_text": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ",
+          "translation": "Dan Tuhanmu telah memutuskan agar kamu tidak menyembah kecuali hanya kepada-Nya.",
+          "context": "Ayat ini menegaskan kewajiban untuk menyembah Allah saja dan tidak menyekutukan-Nya dengan apapun.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan prinsip tauhid yang harus dipegang teguh oleh setiap Muslim.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 18,
+      "surah_name": "Al-Kahf",
+      "surah_translation": "Gua",
+      "verses": [
+        {
+          "verse_number": 10,
+          "arabic_text": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ",
+          "translation": "Ketika para pemuda itu mencari perlindungan di gua.",
+          "context": "Ayat ini adalah bagian dari kisah Ashabul Kahfi, pemuda-pemuda yang mencari perlindungan di gua dari penindasan.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menceritakan tentang keyakinan dan keteguhan iman pemuda-pemuda tersebut dalam menghadapi ujian.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 19,
+      "surah_name": "Maryam",
+      "surah_translation": "Maryam",
+      "verses": [
+        {
+          "verse_number": 26,
+          "arabic_text": "فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا",
+          "translation": "Maka makanlah dan minumlah serta bersenang-senanglah.",
+          "context": "Ayat ini berisi perintah kepada Maryam untuk makan dan minum setelah melahirkan Isa AS dan menenangkan dirinya.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan betapa pentingnya menjaga kesehatan dan kebahagiaan setelah mengalami masa-masa sulit.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 20,
+      "surah_name": "Taha",
+      "surah_translation": "Taha",
+      "verses": [
+        {
+          "verse_number": 14,
+          "arabic_text": "إِنَّنِي أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا",
+          "translation": "Sesungguhnya Aku adalah Allah; tidak ada Tuhan selain Aku.",
+          "context": "Ayat ini adalah bagian dari wahyu Allah kepada Nabi Musa AS di saat ia dihadapkan pada tugas besar.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menegaskan keesaan Allah dan pentingnya pengakuan akan keesaan-Nya.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 21,
+      "surah_name": "Al-Anbiya",
+      "surah_translation": "Para Nabi",
+      "verses": [
+        {
+          "verse_number": 112,
+          "arabic_text": "قَالَ رَبِّ ٱمْتَحِنْنِي بِمَا أَشَاءُ",
+          "translation": "Dia berkata, 'Tuhanku, uji aku dengan apa yang Engkau kehendaki.'",
+          "context": "Ayat ini mengandung doa dan permohonan agar Allah menguji hamba-Nya untuk memperlihatkan ketulusan iman.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan sikap tawakal dan kesiapan untuk menghadapi ujian dari Allah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 22,
+      "surah_name": "Al-Hajj",
+      "surah_translation": "Haji",
+      "verses": [
+        {
+          "verse_number": 37,
+          "arabic_text": "لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا",
+          "translation": "Daging-dagingnya dan darah-darahnya tidak akan sekali-kali sampai kepada Allah.",
+          "context": "Ayat ini menjelaskan bahwa yang diterima oleh Allah dari ibadah qurban adalah ketaqwaan dan bukan hanya daging atau darahnya.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menekankan bahwa inti dari ibadah adalah niat dan ketaqwaan, bukan sekadar ritual.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 23,
+      "surah_name": "Al-Mu'minun",
+      "surah_translation": "Orang-orang Beriman",
+      "verses": [
+        {
+          "verse_number": 1,
+          "arabic_text": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+          "translation": "Sesungguhnya orang-orang yang beriman telah beruntung.",
+          "context": "Ayat ini menjelaskan bahwa orang-orang yang beriman dan mengikuti ajaran Islam dengan benar akan meraih kemenangan.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menggambarkan ciri-ciri orang beriman yang sukses di dunia dan akhirat.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 24,
+      "surah_name": "An-Nur",
+      "surah_translation": "Cahaya",
+      "verses": [
+        {
+          "verse_number": 35,
+          "arabic_text": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "translation": "Allah adalah cahaya langit dan bumi.",
+          "context": "Ayat ini dikenal sebagai Ayat An-Nur dan menggambarkan keagungan Allah sebagai sumber cahaya dan petunjuk.",
+          "tafsir": "Menurut tafsir Al-Jalalayn, ayat ini menekankan bahwa segala cahaya dan petunjuk berasal dari Allah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    },
+    {
+      "surah_number": 25,
+      "surah_name": "Al-Furqan",
+      "surah_translation": "Pembeda",
+      "verses": [
+        {
+          "verse_number": 74,
+          "arabic_text": "وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+          "translation": "Dan orang-orang yang berkata, 'Ya Tuhan kami, anugerahkanlah kepada kami pasangan dan keturunan yang menyenangkan hati.'",
+          "context": "Ayat ini mengungkapkan doa orang-orang beriman untuk diberikan pasangan dan keturunan yang menjadi sumber kebahagiaan.",
+          "tafsir": "Menurut tafsir Ibn Kathir, ayat ini menunjukkan doa dan harapan orang-orang beriman agar keluarga mereka menjadi sumber kebahagiaan dan berkah.",
+          "asbab_un_nuzul": null
+        }
+      ]
+    }
